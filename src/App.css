@@ -1,0 +1,52 @@
+.main-container{
+  display: flex;
+  justify-content: space-around;
+}
+.cart-container{
+  width: 400px;
+  border: 2px solid rgb(226, 225, 225);
+  border-radius: 20px;
+}
+.cards-container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem;
+}
+.card{
+  width: 400px;
+  border: 2px solid rgb(226, 225, 225);
+  padding: 20px;
+}
+.card li{
+  list-style: disc;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+.card-img{
+  width: 150px;
+}
+.cart-title{
+  display: flex;
+  gap: 55px;
+  margin-left: 20px;
+}
+.cart-item{
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-around;
+
+}
+.cart{
+  width: 400px;
+  display: block;
+}
+.cart-footer{
+  display: flex;
+  column-gap: 120px;
+  margin-top: 15px;
+  font-size: 18px;
+}
+.cart-footer p{
+  display: flex;
+  gap: 10px;
+}

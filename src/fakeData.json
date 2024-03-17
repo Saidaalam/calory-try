@@ -1,0 +1,56 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Lemon Herb Grilled Chicken",
+      "short_description": "Tender grilled chicken marinated in zesty lemon and aromatic herbs.",
+      "ingredients": ["550 g chicken", "120 ml lemon juice", "2 tbsp olive oil", "2 cloves garlic", "1 tsp dried oregano", "1 tsp dried thyme", "Salt and pepper to taste"],
+      "preparing_time": "30 min",
+      "calories": "250 calories",
+      "recipe_image": "https://i.postimg.cc/vmK2FxdK/daniel-hooper-Paabo-PF3d-VY-unsplash.jpg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Quinoa Salad with Roasted Vegetables",
+      "short_description": "A colorful salad featuring roasted vegetables, protein-packed quinoa, and a tangy vinaigrette.",
+      "ingredients": ["200 g quinoa", "400 g mixed vegetables (bell peppers, zucchini, cherry tomatoes)", "2 tbsp olive oil", "2 tbsp balsamic vinegar", "1 tbsp honey", "Salt and pepper to taste"],
+      "preparing_time": "40 min",
+      "calories": "180 calories",
+      "recipe_image": "https://i.postimg.cc/d0ZmCWzW/download.jpg"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry with Tofu",
+      "short_description": "A flavorful stir-fry loaded with colorful vegetables and protein-rich tofu, tossed in a savory sauce.",
+      "ingredients": ["300 g tofu", "200 g broccoli florets", "1 bell pepper", "100 g snow peas", "2 cloves garlic", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tsp cornstarch"],
+      "preparing_time": "25 min",
+      "calories": "220 calories",
+      "recipe_image": "https://i.postimg.cc/s2CKX7mc/images.jpg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Mango Avocado Salsa",
+      "short_description": "A refreshing salsa bursting with the tropical flavors of mango, avocado, and lime.",
+      "ingredients": ["2 ripe mangoes", "1 avocado", "1 red onion", "1 jalapeno pepper", "1 lime", "Handful of cilantro", "Salt to taste"],
+      "preparing_time": "15 min",
+      "calories": "120 calories",
+      "recipe_image": "https://i.postimg.cc/9Q7JCJd0/Mango-Avocado-Salsa.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Greek Yogurt Parfait",
+      "short_description": "A creamy parfait layered with Greek yogurt, fresh berries, and crunchy granola.",
+      "ingredients": ["250 g Greek yogurt", "100 g mixed berries", "50 g granola", "1 tbsp honey"],
+      "preparing_time": "10 min",
+      "calories": "180 calories",
+      "recipe_image": "https://i.postimg.cc/pLhncmqr/images-1.jpgg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+      "short_description": "Juicy chicken breasts stuffed with spinach and feta cheese, baked to perfection.",
+      "ingredients": ["4 boneless chicken breasts", "100 g spinach", "100 g feta cheese", "2 cloves garlic", "1 tbsp olive oil", "Salt and pepper to taste"],
+      "preparing_time": "35 min",
+      "calories": "280 calories",
+      "recipe_image": "https://i.postimg.cc/PJ7QkwN1/images-2.jpg"
+    }
+  ]
