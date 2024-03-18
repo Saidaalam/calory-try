@@ -1,3 +1,6 @@
+.hero{
+  background-image: url(./images/bannar.png);
+}
 .main-container{
   display: flex;
   justify-content: space-around;
