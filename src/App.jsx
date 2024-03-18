@@ -80,7 +80,7 @@ function App() {
         </div>
       </div>
 
-      <div className="hero h-screen mt-3 container mx-auto rounded-3xl" style={{backgroundImage: "url(./src/images/bannar.png)"}}>
+      <div className="hero h-screen mt-3 container mx-auto rounded-3xl">
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-xl">
             <h1 className="mb-5 text-4xl font-bold">Discover an exceptional cooking<br/> class tailored for you!</h1>
